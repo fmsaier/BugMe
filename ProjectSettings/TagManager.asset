@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Music
   layers:
   - Default
   - TransparentFX
@@ -38,6 +39,33 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: MoreBackRoom
+    uniqueID: 2020346265
+    locked: 0
+  - name: MoreBackRoomItems
+    uniqueID: 2784015583
+    locked: 0
+  - name: BackRoom
+    uniqueID: 425961531
+    locked: 0
+  - name: BackRoomItems
+    uniqueID: 788621633
+    locked: 0
+  - name: Room
+    uniqueID: 1072840879
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Inventory
+    uniqueID: 2132085271
+    locked: 0
+  - name: Ghost
+    uniqueID: 2424427319
+    locked: 0
+  - name: Drag
+    uniqueID: 448840943
+    locked: 0
+  - name: Overlay
+    uniqueID: 515369661
     locked: 0
