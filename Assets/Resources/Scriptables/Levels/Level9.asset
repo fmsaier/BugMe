@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d507245602f67f4fb2d6e0c80bcace9, type: 3}
+  m_Name: Level9
+  m_EditorClassIdentifier: 
+  SceneName: Level9
+  Name: Level 9
+  Sprite: {fileID: 21300000, guid: 1e6ea1e70c6c5d542a71fecb34343019, type: 3}
+  Preview: {fileID: 21300000, guid: 6b672bb1d0b61654383c0d8fabb6ed0a, type: 3}
+  LevelCompleteSprite: {fileID: 5584542674851666832, guid: bc87f7fd7116e0a45a4cf9480c77233f, type: 3}
+  TwoStarInteractionCount: 14
+  ThreeStarInteractionCount: 12
+  FallingSprites:
+  - {fileID: 845756029984679842, guid: ee1f03be5ac97b64c8a6c54991346fcf, type: 3}
+  - {fileID: -5985583604570518442, guid: ee1f03be5ac97b64c8a6c54991346fcf, type: 3}
+  - {fileID: 8776919266935199894, guid: ee1f03be5ac97b64c8a6c54991346fcf, type: 3}
+  - {fileID: 2862135527380116329, guid: 3a0fa51b925b14342888e2c3dc39dd69, type: 3}
+  - {fileID: -7590262256670714136, guid: 3a0fa51b925b14342888e2c3dc39dd69, type: 3}
+  - {fileID: 5000582825369113565, guid: 3a0fa51b925b14342888e2c3dc39dd69, type: 3}
+  - {fileID: 8776739839710368960, guid: 3a0fa51b925b14342888e2c3dc39dd69, type: 3}
+  MusicSelector: 8

@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: ee1f03be5ac97b64c8a6c54991346fcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8811629443160710955
+    second: library-door
+  - first:
+      213: -6802730313453060891
+    second: bookcase
+  - first:
+      213: 8776919266935199894
+    second: chalkboard
+  - first:
+      213: 5019311471171371265
+    second: blue-chalk
+  - first:
+      213: -7575784444263098849
+    second: white-chalk
+  - first:
+      213: -3890543982666059575
+    second: pink-chalk
+  - first:
+      213: -8487341235551391363
+    second: chalk
+  - first:
+      213: 1657973591125974349
+    second: candle-lit-4
+  - first:
+      213: 4453317711317939724
+    second: candle-lit-3
+  - first:
+      213: 7146970940962489792
+    second: candle-lit-2
+  - first:
+      213: -5985583604570518442
+    second: candle-lit-1
+  - first:
+      213: 2014185761905448105
+    second: candle-unlit
+  - first:
+      213: 8355445660614590953
+    second: book-shelf-small
+  - first:
+      213: -4576035403620111083
+    second: matches
+  - first:
+      213: 7105634706527819042
+    second: alarm-ring-4
+  - first:
+      213: -8135605059274038446
+    second: alarm-ring-3
+  - first:
+      213: 6420986775064115277
+    second: alarm-ring-2
+  - first:
+      213: 3694337166892697596
+    second: alarm-ring-1
+  - first:
+      213: 845756029984679842
+    second: alarm-no-ring
+  - first:
+      213: -506460306627678893
+    second: curtains-closed
+  - first:
+      213: -543883914748853444
+    second: curtains-open
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: library-door
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 52
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0680c15bdc6b580800000000000000
+      internalID: -8811629443160710955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookcase
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec39d382d8d791a0800000000000000
+      internalID: -6802730313453060891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalkboard
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69854f73291edc970800000000000000
+      internalID: 8776919266935199894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-chalk
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1018638803d28a540800000000000000
+      internalID: 5019311471171371265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: white-chalk
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1694c8af286dd690800000000000000
+      internalID: -7575784444263098849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink-chalk
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0f72a5cd2020ac0800000000000000
+      internalID: -3890543982666059575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalk
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d713f673d18e63a80800000000000000
+      internalID: -8487341235551391363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-lit-4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dda02623e420710800000000000000
+      internalID: 1657973591125974349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-lit-3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 4
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06bf0f1ddc5dcd30800000000000000
+      internalID: 4453317711317939724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-lit-2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5cb1c54342f2360800000000000000
+      internalID: 7146970940962489792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-lit-1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c0c24bc6feeeca0800000000000000
+      internalID: -5985583604570518442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-unlit
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a416026743d3fb10800000000000000
+      internalID: 2014185761905448105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book-shelf-small
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 108
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1030d2f8184f370800000000000000
+      internalID: 8355445660614590953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matches
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dac979b08ae70c0800000000000000
+      internalID: -4576035403620111083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm-ring-4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225174a4e194c9260800000000000000
+      internalID: 7105634706527819042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm-ring-3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 16
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253a9198d46881f80800000000000000
+      internalID: -8135605059274038446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm-ring-2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 32
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d487d2bb37deb1950800000000000000
+      internalID: 6420986775064115277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm-ring-1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 48
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf78921741ce44330800000000000000
+      internalID: 3694337166892697596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm-no-ring
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 64
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7a1e5d0aabcbb00800000000000000
+      internalID: 845756029984679842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains-closed
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 119
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d2f92d801b8f8f0800000000000000
+      internalID: -506460306627678893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains-open
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 119
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33885e067cb378f0800000000000000
+      internalID: -543883914748853444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      alarm-no-ring: 845756029984679842
+      alarm-ring-1: 3694337166892697596
+      alarm-ring-2: 6420986775064115277
+      alarm-ring-3: -8135605059274038446
+      alarm-ring-4: 7105634706527819042
+      blue-chalk: 5019311471171371265
+      book-shelf-small: 8355445660614590953
+      bookcase: -6802730313453060891
+      candle-lit-1: -5985583604570518442
+      candle-lit-2: 7146970940962489792
+      candle-lit-3: 4453317711317939724
+      candle-lit-4: 1657973591125974349
+      candle-unlit: 2014185761905448105
+      chalk: -8487341235551391363
+      chalkboard: 8776919266935199894
+      curtains-closed: -506460306627678893
+      curtains-open: -543883914748853444
+      library-door: -8811629443160710955
+      matches: -4576035403620111083
+      pink-chalk: -3890543982666059575
+      white-chalk: -7575784444263098849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

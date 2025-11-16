@@ -1,0 +1,1102 @@
+fileFormatVersion: 2
+guid: 3a0fa51b925b14342888e2c3dc39dd69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2585966209250083019
+    second: stool
+  - first:
+      213: -6556922700306349592
+    second: chair-one
+  - first:
+      213: 6388648386946017184
+    second: chair-two
+  - first:
+      213: -8796781772508936136
+    second: books-one
+  - first:
+      213: 9104525522013418442
+    second: books-nine
+  - first:
+      213: -3406095566554901437
+    second: books-three
+  - first:
+      213: 335263834784367102
+    second: books-four
+  - first:
+      213: 7362403104124658649
+    second: books-five
+  - first:
+      213: 8092274032446165547
+    second: books-seven
+  - first:
+      213: -7891647650922392976
+    second: books-six
+  - first:
+      213: 3647316521000842000
+    second: ladder
+  - first:
+      213: -3404830080255134940
+    second: alarm
+  - first:
+      213: 2929001826419329405
+    second: Room Decor_12
+  - first:
+      213: 6841959371117515798
+    second: books-ten
+  - first:
+      213: -4755476809843536193
+    second: curios
+  - first:
+      213: -487308248914705789
+    second: books-twelve
+  - first:
+      213: 3366955441979139806
+    second: books4
+  - first:
+      213: -7598927094909580511
+    second: books5
+  - first:
+      213: 5315822386393258033
+    second: books1
+  - first:
+      213: 5739476847879747451
+    second: books2
+  - first:
+      213: -4924818371506384682
+    second: books3
+  - first:
+      213: -4429191941457094077
+    second: books6
+  - first:
+      213: -7074703203976490035
+    second: books7
+  - first:
+      213: -7630304801720765141
+    second: books8
+  - first:
+      213: -4085300114545976737
+    second: grimoire
+  - first:
+      213: 8776739839710368960
+    second: skull
+  - first:
+      213: -5124269357633907043
+    second: magic-circle
+  - first:
+      213: -18585881503825473
+    second: chalk-packet
+  - first:
+      213: 2695961379243542972
+    second: chalk
+  - first:
+      213: -7590262256670714136
+    second: chest
+  - first:
+      213: 9149363240354913519
+    second: painting
+  - first:
+      213: 2862135527380116329
+    second: broom
+  - first:
+      213: -1487334721819298273
+    second: mop
+  - first:
+      213: 4353293294980767453
+    second: lamp
+  - first:
+      213: 5000582825369113565
+    second: globe
+  - first:
+      213: -5766350440838673338
+    second: chest-open
+  - first:
+      213: -866463512173406394
+    second: broom-fallen-over
+  - first:
+      213: -3514498185808436414
+    second: mop-fallen-over
+  - first:
+      213: 5924691111847046691
+    second: rug
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stool
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c387f09233e320800000000000000
+      internalID: 2585966209250083019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chair-one
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 22
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e18b8c4b812105a0800000000000000
+      internalID: -6556922700306349592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chair-two
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 22
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a72ac20cd909a850800000000000000
+      internalID: 6388648386946017184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books-one
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 123
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83849f2d59d8be580800000000000000
+      internalID: -8796781772508936136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books-nine
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 128
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3761479b5c95e70800000000000000
+      internalID: 9104525522013418442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books-three
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 85
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3445674e02e1bb0d0800000000000000
+      internalID: -3406095566554901437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books-four
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 81
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef18b527ea817a400800000000000000
+      internalID: 335263834784367102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books-five
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 98
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d365929d928c2660800000000000000
+      internalID: 7362403104124658649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books-seven
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 101
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2252199b588d4070800000000000000
+      internalID: 8092274032446165547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books-six
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 89
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0729932f54c3b7290800000000000000
+      internalID: -7891647650922392976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladder
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 21
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0133ba13d0fdd9230800000000000000
+      internalID: 3647316521000842000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alarm
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 97
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423f3d1e41d9fb0d0800000000000000
+      internalID: -3404830080255134940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room Decor_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 144
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79c13284a7e5a820800000000000000
+      internalID: 2929001826419329405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books-ten
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 143
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6145d1b3cc583fe50800000000000000
+      internalID: 6841959371117515798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curios
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 122
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe0bab7907210eb0800000000000000
+      internalID: -4755476809843536193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books-twelve
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 72
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382425fbabbbc39f0800000000000000
+      internalID: -487308248914705789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed62cb5b224d9be20800000000000000
+      internalID: 3366955441979139806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bc2d961103b8690800000000000000
+      internalID: -7598927094909580511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1381a06cb4895c940800000000000000
+      internalID: 5315822386393258033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77737ab8c7b6af40800000000000000
+      internalID: 5739476847879747451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 10
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d05b0fa8c787abb0800000000000000
+      internalID: -4924818371506384682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 38
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a5d6765695882c0800000000000000
+      internalID: -4429191941457094077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 34
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3d9ab5bea91dd90800000000000000
+      internalID: -7074703203976490035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 28
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25f97db536bb1690800000000000000
+      internalID: -7630304801720765141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grimoire
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5adf9fc0391e47c0800000000000000
+      internalID: -4085300114545976737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 31
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c494ff026e3dc970800000000000000
+      internalID: 8776739839710368960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 72
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96dfc43b20f2e8b0800000000000000
+      internalID: -5124269357633907043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalk-packet
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1802f3d38fdbff0800000000000000
+      internalID: -18585881503825473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chalk
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2
+        width: 2
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9cbf1379af96520800000000000000
+      internalID: 2695961379243542972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 117
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6561741b8f9a690800000000000000
+      internalID: -7590262256670714136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painting
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 92
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec1f56446119fe70800000000000000
+      internalID: 9149363240354913519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: broom
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 110
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9636480191958b720800000000000000
+      internalID: 2862135527380116329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mop
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 115
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f163bd363fceb5be0800000000000000
+      internalID: -1487334721819298273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lamp
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 49
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde1b62ef210a6c30800000000000000
+      internalID: 4353293294980767453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: globe
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 33
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd39b00e593a56540800000000000000
+      internalID: 5000582825369113565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest-open
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 116
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc46353dec9ffa0800000000000000
+      internalID: -5766350440838673338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: broom-fallen-over
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 69
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6471112c604b9f3f0800000000000000
+      internalID: -866463512173406394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mop-fallen-over
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 48
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2432227458ef93fc0800000000000000
+      internalID: -3514498185808436414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rug
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eae850d2bb83250800000000000000
+      internalID: 5924691111847046691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 69544628dd3ba3640b5b3ea9a595710c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Room Decor_12: 2929001826419329405
+      alarm: -3404830080255134940
+      books-five: 7362403104124658649
+      books-four: 335263834784367102
+      books-nine: 9104525522013418442
+      books-one: -8796781772508936136
+      books-seven: 8092274032446165547
+      books-six: -7891647650922392976
+      books-ten: 6841959371117515798
+      books-three: -3406095566554901437
+      books-twelve: -487308248914705789
+      books1: 5315822386393258033
+      books2: 5739476847879747451
+      books3: -4924818371506384682
+      books4: 3366955441979139806
+      books5: -7598927094909580511
+      books6: -4429191941457094077
+      books7: -7074703203976490035
+      books8: -7630304801720765141
+      broom: 2862135527380116329
+      broom-fallen-over: -866463512173406394
+      chair-one: -6556922700306349592
+      chair-two: 6388648386946017184
+      chalk: 2695961379243542972
+      chalk-packet: -18585881503825473
+      chest: -7590262256670714136
+      chest-open: -5766350440838673338
+      curios: -4755476809843536193
+      globe: 5000582825369113565
+      grimoire: -4085300114545976737
+      ladder: 3647316521000842000
+      lamp: 4353293294980767453
+      magic-circle: -5124269357633907043
+      mop: -1487334721819298273
+      mop-fallen-over: -3514498185808436414
+      painting: 9149363240354913519
+      rug: 5924691111847046691
+      skull: 8776739839710368960
+      stool: 2585966209250083019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
