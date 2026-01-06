@@ -32,7 +32,9 @@ public class Levels : MonoBehaviour, ILoadable
         {
             LevelSummary.ShowSummaryAsEndLevel(level, interactionCount, () =>
             {
-                SceneLoader.SwitchScene(data, "Credits");
+                // 结束游戏前往作者场景改为前往开始菜单
+                // SceneLoader.SwitchScene(data, "Credits");
+                SceneLoader.SwitchScene(data, "StartMenu");
                 FindObjectOfType<Saver>()?.Save();
             });
         }
