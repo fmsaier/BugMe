@@ -93,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 4
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -114,7 +114,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -158,10 +158,10 @@ TextureImporter:
       name: toilet
       rect:
         serializedVersion: 2
-        x: 298
-        y: 156
-        width: 99
-        height: 212
+        x: 538
+        y: 243
+        width: 207
+        height: 269
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,10 +179,10 @@ TextureImporter:
       name: matt
       rect:
         serializedVersion: 2
-        x: 140
-        y: 471
-        width: 309
-        height: 162
+        x: 301
+        y: 722
+        width: 610
+        height: 320
       alignment: 9
       pivot: {x: 2.362494, y: 10.25834}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,10 +200,10 @@ TextureImporter:
       name: towel
       rect:
         serializedVersion: 2
-        x: 89
-        y: 317
-        width: 74
-        height: 83
+        x: 140
+        y: 584
+        width: 143
+        height: 162
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,10 +221,10 @@ TextureImporter:
       name: toilet roll
       rect:
         serializedVersion: 2
-        x: 181
-        y: 265
-        width: 35
-        height: 31
+        x: 324
+        y: 352
+        width: 89
+        height: 106
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: plunger
       rect:
         serializedVersion: 2
-        x: 650
-        y: 128
-        width: 32
-        height: 60
+        x: 1216
+        y: 181
+        width: 131
+        height: 200
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: sink
       rect:
         serializedVersion: 2
-        x: 449
-        y: 149
-        width: 78
-        height: 111
+        x: 843
+        y: 280
+        width: 194
+        height: 203
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +284,10 @@ TextureImporter:
       name: mirror
       rect:
         serializedVersion: 2
-        x: 487
-        y: 305
-        width: 53
-        height: 105
+        x: 950
+        y: 558
+        width: 81
+        height: 227
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,10 +305,10 @@ TextureImporter:
       name: heater
       rect:
         serializedVersion: 2
-        x: 757
-        y: 233
-        width: 66
-        height: 139
+        x: 1471
+        y: 394
+        width: 162
+        height: 212
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,10 +326,10 @@ TextureImporter:
       name: plant
       rect:
         serializedVersion: 2
-        x: 929
-        y: 99
-        width: 112
-        height: 154
+        x: 1812
+        y: 156
+        width: 227
+        height: 359
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,10 +347,10 @@ TextureImporter:
       name: hanging-plant
       rect:
         serializedVersion: 2
-        x: 953
-        y: 311
-        width: 52
-        height: 133
+        x: 1867
+        y: 567
+        width: 96
+        height: 274
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: roll
       rect:
         serializedVersion: 2
-        x: 181
-        y: 205
-        width: 35
-        height: 31
+        x: 316
+        y: 127
+        width: 89
+        height: 106
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,10 +431,10 @@ TextureImporter:
       name: empty roll
       rect:
         serializedVersion: 2
-        x: 181
-        y: 149
-        width: 35
-        height: 31
+        x: 316
+        y: 214
+        width: 89
+        height: 106
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -452,10 +452,10 @@ TextureImporter:
       name: towel-fallen
       rect:
         serializedVersion: 2
-        x: 783
-        y: 24
-        width: 78
-        height: 118
+        x: 1526
+        y: 22
+        width: 154
+        height: 249
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,6 +465,27 @@ TextureImporter:
       bones: []
       spriteID: 5f4f4d7ee31acfe90800000000000000
       internalID: -6990535230036314891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom window
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 816
+        width: 205
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11594ff69ec69564bad15b8eea1e81e6
+      internalID: 1415389549
       vertices: []
       indices: 
       edges: []
@@ -482,6 +503,7 @@ TextureImporter:
     nameFileIdTable:
       Sprite Room Decor_10: 7605326520502701720
       Sprite Room Decor_11: 5351756791668909574
+      bathroom window: 1415389549
       empty roll: -5877542388696625535
       hanging-plant: -5060549530480378394
       heater: -6326504079027144499
