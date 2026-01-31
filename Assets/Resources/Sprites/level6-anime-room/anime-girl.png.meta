@@ -93,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -114,7 +114,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -160,8 +160,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,10 +179,10 @@ TextureImporter:
       name: anime-girl_1
       rect:
         serializedVersion: 2
-        x: 80
+        x: 640
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,10 +200,10 @@ TextureImporter:
       name: anime-girl_2
       rect:
         serializedVersion: 2
-        x: 160
+        x: 1280
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,10 +221,10 @@ TextureImporter:
       name: anime-girl_3
       rect:
         serializedVersion: 2
-        x: 240
+        x: 1920
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: anime-girl_4
       rect:
         serializedVersion: 2
-        x: 320
+        x: 2560
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: anime-girl_5
       rect:
         serializedVersion: 2
-        x: 400
+        x: 3200
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +284,10 @@ TextureImporter:
       name: anime-girl_6
       rect:
         serializedVersion: 2
-        x: 480
+        x: 3840
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,10 +305,10 @@ TextureImporter:
       name: anime-girl_7
       rect:
         serializedVersion: 2
-        x: 560
+        x: 4480
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,10 +326,10 @@ TextureImporter:
       name: anime-girl_8
       rect:
         serializedVersion: 2
-        x: 640
+        x: 5120
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,10 +347,10 @@ TextureImporter:
       name: anime-girl_9
       rect:
         serializedVersion: 2
-        x: 720
+        x: 5760
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +368,10 @@ TextureImporter:
       name: anime-girl_10
       rect:
         serializedVersion: 2
-        x: 800
+        x: 6400
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,10 +389,10 @@ TextureImporter:
       name: anime-girl_11
       rect:
         serializedVersion: 2
-        x: 880
+        x: 7040
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: anime-girl_12
       rect:
         serializedVersion: 2
-        x: 960
+        x: 7680
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,10 +431,10 @@ TextureImporter:
       name: anime-girl_13
       rect:
         serializedVersion: 2
-        x: 1040
+        x: 8320
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -452,10 +452,10 @@ TextureImporter:
       name: anime-girl_14
       rect:
         serializedVersion: 2
-        x: 1120
+        x: 8960
         y: 0
-        width: 80
-        height: 72
+        width: 640
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

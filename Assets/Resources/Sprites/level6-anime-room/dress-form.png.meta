@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -133,8 +133,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 26
-        height: 34
+        width: 208
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,10 +152,10 @@ TextureImporter:
       name: dress-form_1
       rect:
         serializedVersion: 2
-        x: 26
+        x: 208
         y: 0
-        width: 26
-        height: 34
+        width: 208
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,10 +173,10 @@ TextureImporter:
       name: dress-form_2
       rect:
         serializedVersion: 2
-        x: 52
+        x: 416
         y: 0
-        width: 26
-        height: 34
+        width: 208
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,10 +194,10 @@ TextureImporter:
       name: dress-form_3
       rect:
         serializedVersion: 2
-        x: 78
+        x: 624
         y: 0
-        width: 26
-        height: 34
+        width: 208
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,10 +215,10 @@ TextureImporter:
       name: dress-form_4
       rect:
         serializedVersion: 2
-        x: 104
+        x: 832
         y: 0
-        width: 26
-        height: 34
+        width: 208
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,10 +236,10 @@ TextureImporter:
       name: dress-form_5
       rect:
         serializedVersion: 2
-        x: 130
+        x: 1040
         y: 0
-        width: 26
-        height: 34
+        width: 208
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
