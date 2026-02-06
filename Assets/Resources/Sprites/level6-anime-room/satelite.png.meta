@@ -99,7 +99,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,7 +120,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -166,8 +166,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,10 +185,10 @@ TextureImporter:
       name: satelite_1
       rect:
         serializedVersion: 2
-        x: 82
+        x: 656
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +206,10 @@ TextureImporter:
       name: satelite_2
       rect:
         serializedVersion: 2
-        x: 164
+        x: 1312
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,10 +227,10 @@ TextureImporter:
       name: satelite_3
       rect:
         serializedVersion: 2
-        x: 246
+        x: 1968
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,10 +248,10 @@ TextureImporter:
       name: satelite_4
       rect:
         serializedVersion: 2
-        x: 328
+        x: 2624
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,10 +269,10 @@ TextureImporter:
       name: satelite_5
       rect:
         serializedVersion: 2
-        x: 410
+        x: 3280
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,10 +290,10 @@ TextureImporter:
       name: satelite_6
       rect:
         serializedVersion: 2
-        x: 492
+        x: 3936
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,10 +311,10 @@ TextureImporter:
       name: satelite_7
       rect:
         serializedVersion: 2
-        x: 574
+        x: 4592
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,10 +332,10 @@ TextureImporter:
       name: satelite_8
       rect:
         serializedVersion: 2
-        x: 656
+        x: 5248
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,10 +353,10 @@ TextureImporter:
       name: satelite_9
       rect:
         serializedVersion: 2
-        x: 738
+        x: 5904
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +374,10 @@ TextureImporter:
       name: satelite_10
       rect:
         serializedVersion: 2
-        x: 820
+        x: 6560
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,10 +395,10 @@ TextureImporter:
       name: satelite_11
       rect:
         serializedVersion: 2
-        x: 902
+        x: 7216
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,10 +416,10 @@ TextureImporter:
       name: satelite_12
       rect:
         serializedVersion: 2
-        x: 984
+        x: 7872
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,10 +437,10 @@ TextureImporter:
       name: satelite_13
       rect:
         serializedVersion: 2
-        x: 1066
+        x: 8528
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,10 +458,10 @@ TextureImporter:
       name: satelite_14
       rect:
         serializedVersion: 2
-        x: 1148
+        x: 9184
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,10 +479,10 @@ TextureImporter:
       name: satelite_15
       rect:
         serializedVersion: 2
-        x: 1230
+        x: 9840
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,10 +500,10 @@ TextureImporter:
       name: satelite_16
       rect:
         serializedVersion: 2
-        x: 1312
+        x: 10496
         y: 0
-        width: 82
-        height: 72
+        width: 656
+        height: 576
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

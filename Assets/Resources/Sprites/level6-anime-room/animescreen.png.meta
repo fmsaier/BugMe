@@ -126,7 +126,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -147,7 +147,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -191,12 +191,12 @@ TextureImporter:
       name: animescreen_0
       rect:
         serializedVersion: 2
-        x: 20
+        x: 160
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -212,12 +212,12 @@ TextureImporter:
       name: animescreen_1
       rect:
         serializedVersion: 2
-        x: 40
+        x: 320
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -233,12 +233,12 @@ TextureImporter:
       name: animescreen_2
       rect:
         serializedVersion: 2
-        x: 60
+        x: 480
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -254,12 +254,12 @@ TextureImporter:
       name: animescreen_3
       rect:
         serializedVersion: 2
-        x: 80
+        x: 640
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -275,12 +275,12 @@ TextureImporter:
       name: animescreen_4
       rect:
         serializedVersion: 2
-        x: 100
+        x: 800
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -296,12 +296,12 @@ TextureImporter:
       name: animescreen_5
       rect:
         serializedVersion: 2
-        x: 120
+        x: 960
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -317,12 +317,12 @@ TextureImporter:
       name: animescreen_6
       rect:
         serializedVersion: 2
-        x: 140
+        x: 1120
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -338,12 +338,12 @@ TextureImporter:
       name: animescreen_7
       rect:
         serializedVersion: 2
-        x: 160
+        x: 1280
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -359,12 +359,12 @@ TextureImporter:
       name: animescreen_8
       rect:
         serializedVersion: 2
-        x: 180
+        x: 1440
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -380,12 +380,12 @@ TextureImporter:
       name: animescreen_9
       rect:
         serializedVersion: 2
-        x: 200
+        x: 1600
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -401,12 +401,12 @@ TextureImporter:
       name: animescreen_10
       rect:
         serializedVersion: 2
-        x: 220
+        x: 1760
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -422,12 +422,12 @@ TextureImporter:
       name: animescreen_11
       rect:
         serializedVersion: 2
-        x: 240
+        x: 1920
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -443,12 +443,12 @@ TextureImporter:
       name: animescreen_12
       rect:
         serializedVersion: 2
-        x: 260
+        x: 2080
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -464,12 +464,12 @@ TextureImporter:
       name: animescreen_13
       rect:
         serializedVersion: 2
-        x: 300
+        x: 2401
         y: 0
-        width: 20
-        height: 28
+        width: 159
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -485,12 +485,12 @@ TextureImporter:
       name: animescreen_14
       rect:
         serializedVersion: 2
-        x: 320
+        x: 2561
         y: 0
-        width: 20
-        height: 28
+        width: 159
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -506,12 +506,12 @@ TextureImporter:
       name: animescreen_15
       rect:
         serializedVersion: 2
-        x: 340
+        x: 2720
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -527,12 +527,12 @@ TextureImporter:
       name: animescreen_16
       rect:
         serializedVersion: 2
-        x: 360
+        x: 2880
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -548,12 +548,12 @@ TextureImporter:
       name: animescreen_17
       rect:
         serializedVersion: 2
-        x: 380
+        x: 3041
         y: 0
-        width: 20
-        height: 28
+        width: 159
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -569,12 +569,12 @@ TextureImporter:
       name: animescreen_18
       rect:
         serializedVersion: 2
-        x: 400
+        x: 3201
         y: 0
-        width: 20
-        height: 28
+        width: 159
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -590,12 +590,12 @@ TextureImporter:
       name: animescreen_19
       rect:
         serializedVersion: 2
-        x: 420
+        x: 3360
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -611,12 +611,12 @@ TextureImporter:
       name: animescreen_20
       rect:
         serializedVersion: 2
-        x: 440
+        x: 3520
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -632,12 +632,12 @@ TextureImporter:
       name: animescreen_21
       rect:
         serializedVersion: 2
-        x: 460
+        x: 3680
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -653,12 +653,12 @@ TextureImporter:
       name: animescreen_22
       rect:
         serializedVersion: 2
-        x: 480
+        x: 3840
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -674,12 +674,12 @@ TextureImporter:
       name: animescreen_23
       rect:
         serializedVersion: 2
-        x: 500
+        x: 4000
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -695,12 +695,12 @@ TextureImporter:
       name: animescreen_24
       rect:
         serializedVersion: 2
-        x: 520
+        x: 4160
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -716,12 +716,12 @@ TextureImporter:
       name: animescreen_25
       rect:
         serializedVersion: 2
-        x: 540
+        x: 4320
         y: 0
-        width: 20
-        height: 28
+        width: 160
+        height: 224
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
