@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -150,9 +150,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 559
-        width: 53
-        height: 41
+        y: 4486
+        width: 434
+        height: 314
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,10 +170,10 @@ TextureImporter:
       name: bedsidetable
       rect:
         serializedVersion: 2
-        x: 80
-        y: 565
-        width: 23
-        height: 24
+        x: 637
+        y: 4519
+        width: 190
+        height: 195
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: clock
       rect:
         serializedVersion: 2
-        x: 115
-        y: 570
-        width: 11
-        height: 12
+        x: 916
+        y: 4560
+        width: 97
+        height: 97
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +212,10 @@ TextureImporter:
       name: bed
       rect:
         serializedVersion: 2
-        x: 144
-        y: 553
-        width: 53
-        height: 45
+        x: 1142
+        y: 4422
+        width: 443
+        height: 378
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,8 +235,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1
         y: 547
-        width: 5
-        height: 5
+        width: 39
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,10 +254,10 @@ TextureImporter:
       name: ladybug
       rect:
         serializedVersion: 2
-        x: 17
-        y: 549
-        width: 3
-        height: 3
+        x: 61
+        y: 541
+        width: 39
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,10 +275,10 @@ TextureImporter:
       name: window
       rect:
         serializedVersion: 2
-        x: 211
-        y: 566
-        width: 36
-        height: 30
+        x: 1686
+        y: 4523
+        width: 283
+        height: 221
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +296,10 @@ TextureImporter:
       name: broken_window
       rect:
         serializedVersion: 2
-        x: 258
-        y: 566
-        width: 36
-        height: 30
+        x: 2062
+        y: 4523
+        width: 283
+        height: 221
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,10 +317,10 @@ TextureImporter:
       name: frame
       rect:
         serializedVersion: 2
-        x: 301
-        y: 563
-        width: 21
-        height: 30
+        x: 2430
+        y: 4513
+        width: 129
+        height: 219
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: items_9
       rect:
         serializedVersion: 2
-        x: 329
-        y: 557
-        width: 22
-        height: 30
+        x: 2639
+        y: 4493
+        width: 164
+        height: 195
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,10 +359,10 @@ TextureImporter:
       name: bathroom_window
       rect:
         serializedVersion: 2
-        x: 363
-        y: 560
-        width: 26
-        height: 22
+        x: 2903
+        y: 4472
+        width: 210
+        height: 190
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -380,10 +380,10 @@ TextureImporter:
       name: plantpot
       rect:
         serializedVersion: 2
-        x: 404
-        y: 550
-        width: 22
-        height: 42
+        x: 3220
+        y: 4401
+        width: 197
+        height: 315
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
