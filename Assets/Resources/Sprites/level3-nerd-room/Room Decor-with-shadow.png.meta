@@ -108,7 +108,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -129,7 +129,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -173,10 +173,10 @@ TextureImporter:
       name: arcade-shadow
       rect:
         serializedVersion: 2
-        x: 154
-        y: 0
-        width: 48
-        height: 58
+        x: 1238
+        y: 44
+        width: 296
+        height: 432
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,10 +194,10 @@ TextureImporter:
       name: wifi-on-shadow
       rect:
         serializedVersion: 2
-        x: 184
-        y: 141
-        width: 15
-        height: 19
+        x: 1547
+        y: 1098
+        width: 141
+        height: 152
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,10 +215,10 @@ TextureImporter:
       name: wifi-off-shadow
       rect:
         serializedVersion: 2
-        x: 200
-        y: 141
-        width: 15
-        height: 19
+        x: 1714
+        y: 1105
+        width: 141
+        height: 152
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

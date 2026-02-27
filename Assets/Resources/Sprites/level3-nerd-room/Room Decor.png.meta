@@ -233,9 +233,9 @@ TextureImporter:
       name: arcade
       rect:
         serializedVersion: 2
-        x: 1239
+        x: 1240
         y: 44
-        width: 342
+        width: 294
         height: 432
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
