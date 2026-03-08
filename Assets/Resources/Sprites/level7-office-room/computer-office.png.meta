@@ -105,7 +105,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,7 +126,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -170,10 +170,10 @@ TextureImporter:
       name: computer-office_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 10
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: computer-office_1
       rect:
         serializedVersion: 2
-        x: 14
+        x: 143
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +212,10 @@ TextureImporter:
       name: computer-office_2
       rect:
         serializedVersion: 2
-        x: 28
+        x: 276
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +233,10 @@ TextureImporter:
       name: computer-office_3
       rect:
         serializedVersion: 2
-        x: 42
+        x: 409
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,10 +254,10 @@ TextureImporter:
       name: computer-office_4
       rect:
         serializedVersion: 2
-        x: 56
+        x: 542
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,10 +275,10 @@ TextureImporter:
       name: computer-office_5
       rect:
         serializedVersion: 2
-        x: 70
+        x: 675
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +296,10 @@ TextureImporter:
       name: computer-office_6
       rect:
         serializedVersion: 2
-        x: 84
+        x: 808
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,10 +317,10 @@ TextureImporter:
       name: computer-office_7
       rect:
         serializedVersion: 2
-        x: 98
+        x: 941
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: computer-office_8
       rect:
         serializedVersion: 2
-        x: 112
+        x: 1074
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,10 +359,10 @@ TextureImporter:
       name: computer-office_9
       rect:
         serializedVersion: 2
-        x: 126
+        x: 1207
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -380,10 +380,10 @@ TextureImporter:
       name: computer-office_10
       rect:
         serializedVersion: 2
-        x: 140
+        x: 1340
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,10 +401,10 @@ TextureImporter:
       name: computer-office_11
       rect:
         serializedVersion: 2
-        x: 154
+        x: 1473
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -422,10 +422,10 @@ TextureImporter:
       name: computer-office_12
       rect:
         serializedVersion: 2
-        x: 168
+        x: 1606
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,10 +443,10 @@ TextureImporter:
       name: computer-office_13
       rect:
         serializedVersion: 2
-        x: 182
+        x: 1739
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,10 +464,10 @@ TextureImporter:
       name: computer-office_14
       rect:
         serializedVersion: 2
-        x: 196
+        x: 1872
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,10 +485,10 @@ TextureImporter:
       name: computer-office_15
       rect:
         serializedVersion: 2
-        x: 210
+        x: 2005
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +506,10 @@ TextureImporter:
       name: computer-office_16
       rect:
         serializedVersion: 2
-        x: 224
+        x: 2138
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -527,10 +527,10 @@ TextureImporter:
       name: computer-office_17
       rect:
         serializedVersion: 2
-        x: 238
+        x: 2271
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -548,10 +548,10 @@ TextureImporter:
       name: computer-office_18
       rect:
         serializedVersion: 2
-        x: 252
+        x: 2404
         y: 0
-        width: 14
-        height: 20
+        width: 133.89473
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

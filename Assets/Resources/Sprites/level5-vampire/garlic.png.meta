@@ -99,7 +99,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,7 +120,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -166,8 +166,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,10 +185,10 @@ TextureImporter:
       name: garlic_1
       rect:
         serializedVersion: 2
-        x: 56
+        x: 427
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +206,10 @@ TextureImporter:
       name: garlic_2
       rect:
         serializedVersion: 2
-        x: 112
+        x: 854
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,10 +227,10 @@ TextureImporter:
       name: garlic_3
       rect:
         serializedVersion: 2
-        x: 168
+        x: 1281
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,10 +248,10 @@ TextureImporter:
       name: garlic_4
       rect:
         serializedVersion: 2
-        x: 224
+        x: 1708
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,10 +269,10 @@ TextureImporter:
       name: garlic_5
       rect:
         serializedVersion: 2
-        x: 280
+        x: 2135
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,10 +290,10 @@ TextureImporter:
       name: garlic_6
       rect:
         serializedVersion: 2
-        x: 336
+        x: 2562
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,10 +311,10 @@ TextureImporter:
       name: garlic_7
       rect:
         serializedVersion: 2
-        x: 392
+        x: 2989
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,10 +332,10 @@ TextureImporter:
       name: garlic_8
       rect:
         serializedVersion: 2
-        x: 448
+        x: 3416
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,10 +353,10 @@ TextureImporter:
       name: garlic_9
       rect:
         serializedVersion: 2
-        x: 504
+        x: 3843
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +374,10 @@ TextureImporter:
       name: garlic_10
       rect:
         serializedVersion: 2
-        x: 560
+        x: 4270
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,10 +395,10 @@ TextureImporter:
       name: garlic_11
       rect:
         serializedVersion: 2
-        x: 616
+        x: 4697
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,10 +416,10 @@ TextureImporter:
       name: garlic_12
       rect:
         serializedVersion: 2
-        x: 672
+        x: 5124
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,10 +437,10 @@ TextureImporter:
       name: garlic_13
       rect:
         serializedVersion: 2
-        x: 728
+        x: 5551
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,10 +458,10 @@ TextureImporter:
       name: garlic_14
       rect:
         serializedVersion: 2
-        x: 784
+        x: 5978
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,10 +479,10 @@ TextureImporter:
       name: garlic_15
       rect:
         serializedVersion: 2
-        x: 840
+        x: 6405
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,10 +500,10 @@ TextureImporter:
       name: garlic_16
       rect:
         serializedVersion: 2
-        x: 896
+        x: 6832
         y: 0
-        width: 56
-        height: 56
+        width: 427
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
