@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +96,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -142,8 +142,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 22
-        height: 20
+        width: 176
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,10 +161,10 @@ TextureImporter:
       name: smelly_1
       rect:
         serializedVersion: 2
-        x: 22
+        x: 176
         y: 0
-        width: 22
-        height: 20
+        width: 176
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: smelly_2
       rect:
         serializedVersion: 2
-        x: 44
+        x: 352
         y: 0
-        width: 22
-        height: 20
+        width: 176
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: smelly_3
       rect:
         serializedVersion: 2
-        x: 66
+        x: 528
         y: 0
-        width: 22
-        height: 20
+        width: 176
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,10 +224,10 @@ TextureImporter:
       name: smelly_4
       rect:
         serializedVersion: 2
-        x: 88
+        x: 704
         y: 0
-        width: 22
-        height: 20
+        width: 176
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,10 +245,10 @@ TextureImporter:
       name: smelly_5
       rect:
         serializedVersion: 2
-        x: 110
+        x: 880
         y: 0
-        width: 22
-        height: 20
+        width: 176
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,10 +266,10 @@ TextureImporter:
       name: smelly_6
       rect:
         serializedVersion: 2
-        x: 132
+        x: 1056
         y: 0
-        width: 22
-        height: 20
+        width: 176
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,10 +287,10 @@ TextureImporter:
       name: smelly_7
       rect:
         serializedVersion: 2
-        x: 154
+        x: 1232
         y: 0
-        width: 22
-        height: 20
+        width: 176
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +308,10 @@ TextureImporter:
       name: smelly_8
       rect:
         serializedVersion: 2
-        x: 176
+        x: 1408
         y: 0
-        width: 22
-        height: 20
+        width: 176
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

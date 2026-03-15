@@ -81,7 +81,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -102,7 +102,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -148,8 +148,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 77
-        height: 68
+        width: 616
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,10 +167,10 @@ TextureImporter:
       name: other-person-cafe_1
       rect:
         serializedVersion: 2
-        x: 77
+        x: 616
         y: 0
-        width: 77
-        height: 68
+        width: 616
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,10 +188,10 @@ TextureImporter:
       name: other-person-cafe_2
       rect:
         serializedVersion: 2
-        x: 154
+        x: 1232
         y: 0
-        width: 77
-        height: 68
+        width: 616
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,10 +209,10 @@ TextureImporter:
       name: other-person-cafe_3
       rect:
         serializedVersion: 2
-        x: 231
+        x: 1848
         y: 0
-        width: 77
-        height: 68
+        width: 616
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +230,10 @@ TextureImporter:
       name: other-person-cafe_4
       rect:
         serializedVersion: 2
-        x: 308
+        x: 2464
         y: 0
-        width: 77
-        height: 68
+        width: 616
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,10 +251,10 @@ TextureImporter:
       name: other-person-cafe_5
       rect:
         serializedVersion: 2
-        x: 385
+        x: 3080
         y: 0
-        width: 77
-        height: 68
+        width: 616
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: other-person-cafe_6
       rect:
         serializedVersion: 2
-        x: 462
+        x: 3696
         y: 0
-        width: 77
-        height: 68
+        width: 616
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,10 +293,10 @@ TextureImporter:
       name: other-person-cafe_7
       rect:
         serializedVersion: 2
-        x: 539
+        x: 4312
         y: 0
-        width: 77
-        height: 68
+        width: 616
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,10 +314,10 @@ TextureImporter:
       name: other-person-cafe_8
       rect:
         serializedVersion: 2
-        x: 616
+        x: 4928
         y: 0
-        width: 77
-        height: 68
+        width: 616
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,10 +335,10 @@ TextureImporter:
       name: other-person-cafe_9
       rect:
         serializedVersion: 2
-        x: 693
+        x: 5544
         y: 0
-        width: 77
-        height: 68
+        width: 616
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,10 +356,10 @@ TextureImporter:
       name: other-person-cafe_10
       rect:
         serializedVersion: 2
-        x: 770
+        x: 6160
         y: 0
-        width: 77
-        height: 68
+        width: 616
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

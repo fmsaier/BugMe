@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +96,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -141,9 +141,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 804
-        width: 234
-        height: 134
+        y: 6432
+        width: 1872
+        height: 1072
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,9 +162,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 670
-        width: 234
-        height: 134
+        y: 5360
+        width: 1872
+        height: 1072
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,9 +183,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 404
-        width: 234
-        height: 134
+        y: 3238
+        width: 1872
+        height: 1072
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: computer_files
       rect:
         serializedVersion: 2
-        x: 7
-        y: 352
-        width: 76
-        height: 30
+        x: 26
+        y: 2817
+        width: 300
+        height: 240
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,10 +224,10 @@ TextureImporter:
       name: www
       rect:
         serializedVersion: 2
-        x: 9
-        y: 323
-        width: 54
-        height: 26
+        x: 24
+        y: 2579
+        width: 301
+        height: 240
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,10 +245,10 @@ TextureImporter:
       name: recycle-bin
       rect:
         serializedVersion: 2
-        x: 188
-        y: 283
-        width: 38
-        height: 32
+        x: 1551
+        y: 2247
+        width: 224
+        height: 288
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,9 +267,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 538
-        width: 234
-        height: 129
+        y: 4310
+        width: 1872
+        height: 1032
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,10 +287,10 @@ TextureImporter:
       name: deleting-super-important-files
       rect:
         serializedVersion: 2
-        x: 6
-        y: 141
-        width: 222
-        height: 119
+        x: 46
+        y: 1117
+        width: 1780
+        height: 972
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +308,10 @@ TextureImporter:
       name: deleting-super-important-files-bar
       rect:
         serializedVersion: 2
-        x: 59
-        y: 58
-        width: 112
-        height: 26
+        x: 510
+        y: 542
+        width: 812
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

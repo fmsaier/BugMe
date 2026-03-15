@@ -114,7 +114,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -135,7 +135,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -181,8 +181,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,10 +200,10 @@ TextureImporter:
       name: pond_1
       rect:
         serializedVersion: 2
-        x: 52
+        x: 435
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,10 +221,10 @@ TextureImporter:
       name: pond_2
       rect:
         serializedVersion: 2
-        x: 104
+        x: 870
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: pond_3
       rect:
         serializedVersion: 2
-        x: 156
+        x: 1305
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: pond_4
       rect:
         serializedVersion: 2
-        x: 208
+        x: 1740
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +284,10 @@ TextureImporter:
       name: pond_5
       rect:
         serializedVersion: 2
-        x: 260
+        x: 2175
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,10 +305,10 @@ TextureImporter:
       name: pond_6
       rect:
         serializedVersion: 2
-        x: 312
+        x: 2610
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,10 +326,10 @@ TextureImporter:
       name: pond_7
       rect:
         serializedVersion: 2
-        x: 364
+        x: 3045
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,10 +347,10 @@ TextureImporter:
       name: pond_8
       rect:
         serializedVersion: 2
-        x: 416
+        x: 3480
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +368,10 @@ TextureImporter:
       name: pond_9
       rect:
         serializedVersion: 2
-        x: 468
+        x: 3915
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,10 +389,10 @@ TextureImporter:
       name: pond_10
       rect:
         serializedVersion: 2
-        x: 520
+        x: 4350
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: pond_11
       rect:
         serializedVersion: 2
-        x: 572
+        x: 4785
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,10 +431,10 @@ TextureImporter:
       name: pond_12
       rect:
         serializedVersion: 2
-        x: 624
+        x: 5220
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -452,10 +452,10 @@ TextureImporter:
       name: pond_13
       rect:
         serializedVersion: 2
-        x: 676
+        x: 5655
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -473,10 +473,10 @@ TextureImporter:
       name: pond_14
       rect:
         serializedVersion: 2
-        x: 728
+        x: 6090
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +494,10 @@ TextureImporter:
       name: pond_15
       rect:
         serializedVersion: 2
-        x: 780
+        x: 6525
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -515,10 +515,10 @@ TextureImporter:
       name: pond_16
       rect:
         serializedVersion: 2
-        x: 832
+        x: 6960
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -536,10 +536,10 @@ TextureImporter:
       name: pond_17
       rect:
         serializedVersion: 2
-        x: 884
+        x: 7395
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -557,10 +557,10 @@ TextureImporter:
       name: pond_18
       rect:
         serializedVersion: 2
-        x: 936
+        x: 7830
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -578,10 +578,10 @@ TextureImporter:
       name: pond_19
       rect:
         serializedVersion: 2
-        x: 988
+        x: 8265
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -599,10 +599,10 @@ TextureImporter:
       name: pond_20
       rect:
         serializedVersion: 2
-        x: 1040
+        x: 8700
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -620,10 +620,10 @@ TextureImporter:
       name: pond_21
       rect:
         serializedVersion: 2
-        x: 1092
+        x: 9135
         y: 0
-        width: 52
-        height: 50
+        width: 435
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
