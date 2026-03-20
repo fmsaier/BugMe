@@ -171,7 +171,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -192,7 +192,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -237,9 +237,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 68
-        height: 102
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,10 +257,10 @@ TextureImporter:
       name: vampire_1
       rect:
         serializedVersion: 2
-        x: 68
-        y: 0
-        width: 68
-        height: 102
+        x: 633
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: vampire_2
       rect:
         serializedVersion: 2
-        x: 136
-        y: 0
-        width: 68
-        height: 102
+        x: 1266
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,10 +299,10 @@ TextureImporter:
       name: vampire_3
       rect:
         serializedVersion: 2
-        x: 204
-        y: 0
-        width: 68
-        height: 102
+        x: 1899
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,10 +320,10 @@ TextureImporter:
       name: vampire_4
       rect:
         serializedVersion: 2
-        x: 272
-        y: 0
-        width: 68
-        height: 102
+        x: 2532
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,10 +341,10 @@ TextureImporter:
       name: vampire_5
       rect:
         serializedVersion: 2
-        x: 340
-        y: 0
-        width: 68
-        height: 102
+        x: 3165
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +362,10 @@ TextureImporter:
       name: vampire_6
       rect:
         serializedVersion: 2
-        x: 408
-        y: 0
-        width: 68
-        height: 102
+        x: 3798
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -383,10 +383,10 @@ TextureImporter:
       name: vampire_7
       rect:
         serializedVersion: 2
-        x: 476
-        y: 0
-        width: 68
-        height: 102
+        x: 4431
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: vampire_8
       rect:
         serializedVersion: 2
-        x: 544
-        y: 0
-        width: 68
-        height: 102
+        x: 5064
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,10 +425,10 @@ TextureImporter:
       name: vampire_9
       rect:
         serializedVersion: 2
-        x: 612
-        y: 0
-        width: 68
-        height: 102
+        x: 5697
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,10 +446,10 @@ TextureImporter:
       name: vampire_10
       rect:
         serializedVersion: 2
-        x: 680
-        y: 0
-        width: 68
-        height: 102
+        x: 6330
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -467,10 +467,10 @@ TextureImporter:
       name: vampire_11
       rect:
         serializedVersion: 2
-        x: 748
-        y: 0
-        width: 68
-        height: 102
+        x: 6963
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -488,10 +488,10 @@ TextureImporter:
       name: vampire_12
       rect:
         serializedVersion: 2
-        x: 816
-        y: 0
-        width: 68
-        height: 102
+        x: 7596
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,10 +509,10 @@ TextureImporter:
       name: vampire_13
       rect:
         serializedVersion: 2
-        x: 884
-        y: 0
-        width: 68
-        height: 102
+        x: 8229
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -530,10 +530,10 @@ TextureImporter:
       name: vampire_14
       rect:
         serializedVersion: 2
-        x: 952
-        y: 0
-        width: 68
-        height: 102
+        x: 8862
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,10 +551,10 @@ TextureImporter:
       name: vampire_15
       rect:
         serializedVersion: 2
-        x: 1020
-        y: 0
-        width: 68
-        height: 102
+        x: 9495
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -572,10 +572,10 @@ TextureImporter:
       name: vampire_16
       rect:
         serializedVersion: 2
-        x: 1088
-        y: 0
-        width: 68
-        height: 102
+        x: 10128
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -593,10 +593,10 @@ TextureImporter:
       name: vampire_17
       rect:
         serializedVersion: 2
-        x: 1156
-        y: 0
-        width: 68
-        height: 102
+        x: 10761
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -614,10 +614,10 @@ TextureImporter:
       name: vampire_18
       rect:
         serializedVersion: 2
-        x: 1224
-        y: 0
-        width: 68
-        height: 102
+        x: 11394
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -635,10 +635,10 @@ TextureImporter:
       name: vampire_19
       rect:
         serializedVersion: 2
-        x: 1292
-        y: 0
-        width: 68
-        height: 102
+        x: 12027
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,10 +656,10 @@ TextureImporter:
       name: vampire_20
       rect:
         serializedVersion: 2
-        x: 1360
-        y: 0
-        width: 68
-        height: 102
+        x: 12660
+        y: 673
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -677,10 +677,10 @@ TextureImporter:
       name: vampire_21
       rect:
         serializedVersion: 2
-        x: 1428
+        x: 0
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -698,10 +698,10 @@ TextureImporter:
       name: vampire_22
       rect:
         serializedVersion: 2
-        x: 1496
+        x: 633
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -719,10 +719,10 @@ TextureImporter:
       name: vampire_23
       rect:
         serializedVersion: 2
-        x: 1564
+        x: 1266
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -740,10 +740,10 @@ TextureImporter:
       name: vampire_24
       rect:
         serializedVersion: 2
-        x: 1632
+        x: 1899
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -761,10 +761,10 @@ TextureImporter:
       name: vampire_25
       rect:
         serializedVersion: 2
-        x: 1700
+        x: 2532
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -782,10 +782,10 @@ TextureImporter:
       name: vampire_26
       rect:
         serializedVersion: 2
-        x: 1768
+        x: 3165
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -803,10 +803,10 @@ TextureImporter:
       name: vampire_27
       rect:
         serializedVersion: 2
-        x: 1836
+        x: 3798
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -824,10 +824,10 @@ TextureImporter:
       name: vampire_28
       rect:
         serializedVersion: 2
-        x: 1904
+        x: 4431
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -845,10 +845,10 @@ TextureImporter:
       name: vampire_29
       rect:
         serializedVersion: 2
-        x: 1972
+        x: 5064
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -866,10 +866,10 @@ TextureImporter:
       name: vampire_30
       rect:
         serializedVersion: 2
-        x: 2040
+        x: 5697
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -887,10 +887,10 @@ TextureImporter:
       name: vampire_31
       rect:
         serializedVersion: 2
-        x: 2108
+        x: 6330
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -908,10 +908,10 @@ TextureImporter:
       name: vampire_32
       rect:
         serializedVersion: 2
-        x: 2176
+        x: 6963
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -929,10 +929,10 @@ TextureImporter:
       name: vampire_33
       rect:
         serializedVersion: 2
-        x: 2244
+        x: 7596
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -950,10 +950,10 @@ TextureImporter:
       name: vampire_34
       rect:
         serializedVersion: 2
-        x: 2312
+        x: 8229
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -971,10 +971,10 @@ TextureImporter:
       name: vampire_35
       rect:
         serializedVersion: 2
-        x: 2380
+        x: 8862
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -992,10 +992,10 @@ TextureImporter:
       name: vampire_36
       rect:
         serializedVersion: 2
-        x: 2448
+        x: 9495
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1013,10 +1013,10 @@ TextureImporter:
       name: vampire_37
       rect:
         serializedVersion: 2
-        x: 2516
+        x: 10128
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1034,10 +1034,10 @@ TextureImporter:
       name: vampire_38
       rect:
         serializedVersion: 2
-        x: 2584
+        x: 10761
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1055,10 +1055,10 @@ TextureImporter:
       name: vampire_39
       rect:
         serializedVersion: 2
-        x: 2652
+        x: 11394
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1076,10 +1076,10 @@ TextureImporter:
       name: vampire_40
       rect:
         serializedVersion: 2
-        x: 2720
+        x: 12027
         y: 0
-        width: 68
-        height: 102
+        width: 633
+        height: 673
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1089,6 +1089,27 @@ TextureImporter:
       bones: []
       spriteID: 4973fbb5596e173f0800000000000000
       internalID: -904688520960985196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampire_41
+      rect:
+        serializedVersion: 2
+        x: 12660
+        y: 0
+        width: 633
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aae05969bfd8b04990081f5de3a30d7
+      internalID: -1339169717
       vertices: []
       indices: 
       edges: []
@@ -1140,6 +1161,7 @@ TextureImporter:
       vampire_39: -3724875882166387749
       vampire_4: -5878560389361525244
       vampire_40: -904688520960985196
+      vampire_41: -1339169717
       vampire_5: 6252940227387371930
       vampire_6: -6463779262611895369
       vampire_7: -5729593492060286100
