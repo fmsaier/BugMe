@@ -105,7 +105,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,7 +126,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -170,10 +170,10 @@ TextureImporter:
       name: computer-desk
       rect:
         serializedVersion: 2
-        x: 25
-        y: 84
-        width: 30
-        height: 26
+        x: 199
+        y: 688
+        width: 240
+        height: 193
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: life-ring
       rect:
         serializedVersion: 2
-        x: 68
-        y: 110
-        width: 16
-        height: 15
+        x: 544
+        y: 880
+        width: 127
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +212,10 @@ TextureImporter:
       name: caution-sign
       rect:
         serializedVersion: 2
-        x: 110
-        y: 115
-        width: 24
-        height: 26
+        x: 883
+        y: 930
+        width: 175
+        height: 196
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +233,10 @@ TextureImporter:
       name: chair-one
       rect:
         serializedVersion: 2
-        x: 91
-        y: 76
-        width: 22
-        height: 32
+        x: 726
+        y: 608
+        width: 172
+        height: 255
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,10 +254,10 @@ TextureImporter:
       name: table
       rect:
         serializedVersion: 2
-        x: 164
-        y: 119
-        width: 40
-        height: 30
+        x: 1313
+        y: 962
+        width: 310
+        height: 228
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,10 +275,10 @@ TextureImporter:
       name: chair-two
       rect:
         serializedVersion: 2
-        x: 122
-        y: 76
-        width: 22
-        height: 34
+        x: 978
+        y: 617
+        width: 173
+        height: 262
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,9 +297,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 46
-        height: 44
+        y: 27
+        width: 358
+        height: 317
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,10 +317,10 @@ TextureImporter:
       name: kitchen-cabinets
       rect:
         serializedVersion: 2
-        x: 242
-        y: 1
-        width: 46
-        height: 40
+        x: 1943
+        y: 20
+        width: 361
+        height: 305
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: coffee
       rect:
         serializedVersion: 2
-        x: 271
-        y: 123
-        width: 6
-        height: 6
+        x: 2175
+        y: 991
+        width: 18
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,10 +359,10 @@ TextureImporter:
       name: lunch
       rect:
         serializedVersion: 2
-        x: 249
-        y: 123
-        width: 12
-        height: 10
+        x: 1991
+        y: 985
+        width: 90
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -380,10 +380,10 @@ TextureImporter:
       name: pool-noodles
       rect:
         serializedVersion: 2
-        x: 99
-        y: 9
-        width: 38
-        height: 44
+        x: 788
+        y: 74
+        width: 314
+        height: 354
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,10 +401,10 @@ TextureImporter:
       name: lockers
       rect:
         serializedVersion: 2
-        x: 158
-        y: 19
-        width: 34
-        height: 42
+        x: 1264
+        y: 160
+        width: 268
+        height: 328
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -422,10 +422,10 @@ TextureImporter:
       name: firstaidkit
       rect:
         serializedVersion: 2
-        x: 50
-        y: 141
-        width: 20
-        height: 12
+        x: 400
+        y: 1127
+        width: 152
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,10 +443,10 @@ TextureImporter:
       name: first-aid-kit-open
       rect:
         serializedVersion: 2
-        x: 350
-        y: 88
-        width: 20
-        height: 20
+        x: 2799
+        y: 702
+        width: 155
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,10 +464,10 @@ TextureImporter:
       name: life-ring-squish
       rect:
         serializedVersion: 2
-        x: 350
-        y: 120
-        width: 16
-        height: 14
+        x: 2799
+        y: 960
+        width: 121
+        height: 112
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,10 +485,10 @@ TextureImporter:
       name: draw
       rect:
         serializedVersion: 2
-        x: 315
-        y: 101
-        width: 16
-        height: 16
+        x: 2521
+        y: 808
+        width: 118
+        height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +506,10 @@ TextureImporter:
       name: sign-over
       rect:
         serializedVersion: 2
-        x: 294
-        y: 128
-        width: 28
-        height: 22
+        x: 2368
+        y: 1024
+        width: 202
+        height: 168
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -527,10 +527,10 @@ TextureImporter:
       name: draw2
       rect:
         serializedVersion: 2
-        x: 318
-        y: 78
-        width: 16
-        height: 12
+        x: 2552
+        y: 620
+        width: 112
+        height: 97
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -548,10 +548,10 @@ TextureImporter:
       name: cupboardopen
       rect:
         serializedVersion: 2
-        x: 320
-        y: 52
-        width: 12
-        height: 18
+        x: 2560
+        y: 428
+        width: 96
+        height: 130
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

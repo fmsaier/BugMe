@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -93,7 +93,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -139,8 +139,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 52
-        height: 62
+        width: 416
+        height: 496
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,10 +158,10 @@ TextureImporter:
       name: pool-person_1
       rect:
         serializedVersion: 2
-        x: 52
+        x: 416
         y: 0
-        width: 52
-        height: 62
+        width: 416
+        height: 496
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,10 +179,10 @@ TextureImporter:
       name: pool-person_2
       rect:
         serializedVersion: 2
-        x: 104
+        x: 832
         y: 0
-        width: 52
-        height: 62
+        width: 416
+        height: 496
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,10 +200,10 @@ TextureImporter:
       name: pool-person_3
       rect:
         serializedVersion: 2
-        x: 156
+        x: 1248
         y: 0
-        width: 52
-        height: 62
+        width: 416
+        height: 496
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,10 +221,10 @@ TextureImporter:
       name: pool-person_4
       rect:
         serializedVersion: 2
-        x: 208
+        x: 1664
         y: 0
-        width: 52
-        height: 62
+        width: 416
+        height: 496
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: pool-person_5
       rect:
         serializedVersion: 2
-        x: 260
+        x: 2080
         y: 0
-        width: 52
-        height: 62
+        width: 416
+        height: 496
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: pool-person_6
       rect:
         serializedVersion: 2
-        x: 312
+        x: 2496
         y: 0
-        width: 52
-        height: 62
+        width: 416
+        height: 496
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +284,10 @@ TextureImporter:
       name: pool-person_7
       rect:
         serializedVersion: 2
-        x: 364
+        x: 2912
         y: 0
-        width: 52
-        height: 62
+        width: 416
+        height: 496
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
