@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: wake-up-load
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -18,7 +18,8 @@ AnimationClip:
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves:
-  - curve:
+  - serializedVersion: 2
+    curve:
     - time: 0
       value: {fileID: -2677337718376402204, guid: ba9f5d8150612db4a95ae628ae461148, type: 3}
     - time: 0.083333336
@@ -27,8 +28,6 @@ AnimationClip:
       value: {fileID: -8293860672770808786, guid: ba9f5d8150612db4a95ae628ae461148, type: 3}
     - time: 0.33333334
       value: {fileID: -8544148706774476127, guid: ba9f5d8150612db4a95ae628ae461148, type: 3}
-    - time: 0.5833333
-      value: {fileID: -8293860672770808786, guid: ba9f5d8150612db4a95ae628ae461148, type: 3}
     - time: 0.6666667
       value: {fileID: -8544148706774476127, guid: ba9f5d8150612db4a95ae628ae461148, type: 3}
     - time: 0.75
@@ -37,6 +36,7 @@ AnimationClip:
     path: 
     classID: 114
     script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+    flags: 2
   m_SampleRate: 60
   m_WrapMode: 0
   m_Bounds:
@@ -51,12 +51,13 @@ AnimationClip:
       typeID: 114
       customType: 0
       isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     pptrCurveMapping:
     - {fileID: -2677337718376402204, guid: ba9f5d8150612db4a95ae628ae461148, type: 3}
     - {fileID: 6386331232736369646, guid: ba9f5d8150612db4a95ae628ae461148, type: 3}
     - {fileID: -8293860672770808786, guid: ba9f5d8150612db4a95ae628ae461148, type: 3}
     - {fileID: -8544148706774476127, guid: ba9f5d8150612db4a95ae628ae461148, type: 3}
-    - {fileID: -8293860672770808786, guid: ba9f5d8150612db4a95ae628ae461148, type: 3}
     - {fileID: -8544148706774476127, guid: ba9f5d8150612db4a95ae628ae461148, type: 3}
     - {fileID: -8544148706774476127, guid: ba9f5d8150612db4a95ae628ae461148, type: 3}
   m_AnimationClipSettings:
