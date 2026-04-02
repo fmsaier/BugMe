@@ -99,7 +99,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,7 +120,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -151,10 +151,10 @@ TextureImporter:
       name: garage-shelves
       rect:
         serializedVersion: 2
-        x: 134
-        y: 51
-        width: 56
-        height: 80
+        x: 1071
+        y: 412
+        width: 448
+        height: 635
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,10 +172,10 @@ TextureImporter:
       name: peg-board
       rect:
         serializedVersion: 2
-        x: 88
-        y: 23
-        width: 34
-        height: 44
+        x: 700
+        y: 187
+        width: 273
+        height: 351
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,10 +193,10 @@ TextureImporter:
       name: box
       rect:
         serializedVersion: 2
-        x: 15
-        y: 63
-        width: 24
-        height: 24
+        x: 116
+        y: 501
+        width: 189
+        height: 196
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,10 +214,10 @@ TextureImporter:
       name: bike
       rect:
         serializedVersion: 2
-        x: 230
-        y: 36
-        width: 32
-        height: 26
+        x: 1839
+        y: 296
+        width: 256
+        height: 208
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,10 +235,10 @@ TextureImporter:
       name: scissors
       rect:
         serializedVersion: 2
-        x: 130
-        y: 23
-        width: 6
-        height: 10
+        x: 1035
+        y: 178
+        width: 54
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: wheelbarrow
       rect:
         serializedVersion: 2
-        x: 163
-        y: 16
-        width: 30
-        height: 30
+        x: 1298
+        y: 127
+        width: 240
+        height: 245
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,10 +277,10 @@ TextureImporter:
       name: garage-shelves-two
       rect:
         serializedVersion: 2
-        x: 237
-        y: 95
-        width: 24
-        height: 52
+        x: 1895
+        y: 764
+        width: 190
+        height: 408
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,10 +298,10 @@ TextureImporter:
       name: plant-food
       rect:
         serializedVersion: 2
-        x: 106
-        y: 130
-        width: 18
-        height: 26
+        x: 845
+        y: 1034
+        width: 155
+        height: 215
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,10 +319,10 @@ TextureImporter:
       name: rabbit-bedding-pack
       rect:
         serializedVersion: 2
-        x: 59
-        y: 123
-        width: 16
-        height: 22
+        x: 466
+        y: 989
+        width: 136
+        height: 181
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +340,10 @@ TextureImporter:
       name: rabbit-bedding
       rect:
         serializedVersion: 2
-        x: 78
-        y: 119
-        width: 12
-        height: 12
+        x: 605
+        y: 955
+        width: 120
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -361,10 +361,10 @@ TextureImporter:
       name: flower-pot-brown
       rect:
         serializedVersion: 2
-        x: 141
-        y: 140
-        width: 10
-        height: 12
+        x: 1124
+        y: 1123
+        width: 81
+        height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: flower-pot-blue
       rect:
         serializedVersion: 2
-        x: 158
-        y: 141
-        width: 10
-        height: 10
+        x: 1260
+        y: 1123
+        width: 81
+        height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,10 +403,10 @@ TextureImporter:
       name: plant-food-fallen-over
       rect:
         serializedVersion: 2
-        x: 5
-        y: 4
-        width: 32
-        height: 24
+        x: 36
+        y: 25
+        width: 293
+        height: 193
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -424,10 +424,10 @@ TextureImporter:
       name: open-box
       rect:
         serializedVersion: 2
-        x: 42
-        y: 63
-        width: 28
-        height: 28
+        x: 325
+        y: 504
+        width: 243
+        height: 225
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -445,10 +445,10 @@ TextureImporter:
       name: flower-pot-blue-fallen-over
       rect:
         serializedVersion: 2
-        x: 178
-        y: 142
-        width: 10
-        height: 10
+        x: 1418
+        y: 1135
+        width: 95
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,10 +466,10 @@ TextureImporter:
       name: flower-pot-brown-fallen-over
       rect:
         serializedVersion: 2
-        x: 196
-        y: 142
-        width: 10
-        height: 10
+        x: 1546
+        y: 1140
+        width: 95
+        height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,10 +487,10 @@ TextureImporter:
       name: bike-fallen-over
       rect:
         serializedVersion: 2
-        x: 236
-        y: 6
-        width: 34
-        height: 26
+        x: 1888
+        y: 37
+        width: 262
+        height: 210
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

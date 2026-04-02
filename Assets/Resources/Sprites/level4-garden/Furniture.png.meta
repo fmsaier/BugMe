@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -93,7 +93,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -137,10 +137,10 @@ TextureImporter:
       name: garden-bench
       rect:
         serializedVersion: 2
-        x: 0
-        y: 126
-        width: 40
-        height: 34
+        x: 4
+        y: 995
+        width: 305
+        height: 274
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,10 +158,10 @@ TextureImporter:
       name: flower-bed
       rect:
         serializedVersion: 2
-        x: 200
-        y: 108
-        width: 88
-        height: 52
+        x: 1578
+        y: 850
+        width: 726
+        height: 430
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,10 +179,10 @@ TextureImporter:
       name: rabbit-hutch
       rect:
         serializedVersion: 2
-        x: 0
-        y: 45
-        width: 36
-        height: 42
+        x: 7
+        y: 348
+        width: 285
+        height: 348
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,10 +200,10 @@ TextureImporter:
       name: red-cushion
       rect:
         serializedVersion: 2
-        x: 3
-        y: 104
-        width: 24
-        height: 14
+        x: 32
+        y: 822
+        width: 200
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,10 +221,10 @@ TextureImporter:
       name: white-cushion
       rect:
         serializedVersion: 2
-        x: 3
-        y: 88
-        width: 24
-        height: 14
+        x: 29
+        y: 697
+        width: 197
+        height: 119
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: carrot
       rect:
         serializedVersion: 2
-        x: 6
-        y: 30
-        width: 6
-        height: 8
+        x: 47
+        y: 225
+        width: 60
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: carrot-bag
       rect:
         serializedVersion: 2
-        x: 54
-        y: 125
-        width: 24
-        height: 28
+        x: 460
+        y: 995
+        width: 147
+        height: 212
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +284,10 @@ TextureImporter:
       name: carrot-bag-open
       rect:
         serializedVersion: 2
-        x: 80
-        y: 125
-        width: 24
-        height: 28
+        x: 647
+        y: 996
+        width: 185
+        height: 181
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

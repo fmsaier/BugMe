@@ -69,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,7 +90,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -134,31 +134,10 @@ TextureImporter:
       name: bunny-on-hutch_0
       rect:
         serializedVersion: 2
-        x: 49
+        x: 784
         y: 0
-        width: 49
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a31fba3e0fbd9b5e0800000000000000
-      internalID: -1893240340674252486
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bunny-on-hutch_1
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 0
-        width: 49
-        height: 45
+        width: 392
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,13 +152,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bunny-on-hutch_2
+      name: bunny-on-hutch_1
       rect:
         serializedVersion: 2
-        x: 147
+        x: 784
         y: 0
-        width: 49
-        height: 45
+        width: 392
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,13 +173,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bunny-on-hutch_3
+      name: bunny-on-hutch_2
       rect:
         serializedVersion: 2
-        x: 196
+        x: 1176
         y: 0
-        width: 49
-        height: 45
+        width: 392
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,13 +194,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bunny-on-hutch_4
+      name: bunny-on-hutch_3
       rect:
         serializedVersion: 2
-        x: 245
+        x: 1568
         y: 0
-        width: 49
-        height: 45
+        width: 392
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,13 +215,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bunny-on-hutch_5
+      name: bunny-on-hutch_4
       rect:
         serializedVersion: 2
-        x: 294
+        x: 1960
         y: 0
-        width: 49
-        height: 45
+        width: 392
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,13 +236,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bunny-on-hutch_6
+      name: bunny-on-hutch_5
       rect:
         serializedVersion: 2
-        x: 343
+        x: 2352
         y: 0
-        width: 49
-        height: 45
+        width: 392
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,6 +252,27 @@ TextureImporter:
       bones: []
       spriteID: b59db01c7017b17a0800000000000000
       internalID: -6405401766886909605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny-on-hutch_6
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 0
+        width: 392
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d444fc40d43316a49a26e52e75ca47cb
+      internalID: -518879602
       vertices: []
       indices: 
       edges: []
@@ -288,13 +288,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bunny-on-hutch_0: -1893240340674252486
-      bunny-on-hutch_1: 7091547053741174091
-      bunny-on-hutch_2: 1782802561096314256
-      bunny-on-hutch_3: -3175252718051326615
-      bunny-on-hutch_4: 5156151653179923743
-      bunny-on-hutch_5: 4171637516508719873
-      bunny-on-hutch_6: -6405401766886909605
+      bunny-on-hutch_0: 7091547053741174091
+      bunny-on-hutch_1: 1782802561096314256
+      bunny-on-hutch_2: -3175252718051326615
+      bunny-on-hutch_3: 5156151653179923743
+      bunny-on-hutch_4: 4171637516508719873
+      bunny-on-hutch_5: -6405401766886909605
+      bunny-on-hutch_6: -518879602
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
