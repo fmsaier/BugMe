@@ -11,7 +11,7 @@ public class UnlockedCollectable : MonoBehaviour
     public void Render(CollectableData collectable)
     {
         Image.sprite = collectable.sprite;
-        Text.text = "Unlocked " + collectable.Name + "!";
+        Text.text = "找到了 " + collectable.Name + "！";
         Panel.SetActive(true);
     }
 
