@@ -6,5 +6,6 @@ public class CollectableData: ScriptableObject
 {
     public Sprite sprite;
     public string Name;
+    public string ChineseName;
     public Color Colour;
 }

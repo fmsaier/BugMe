@@ -96,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,7 +117,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -161,10 +161,10 @@ TextureImporter:
       name: bugs_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 10
-        height: 8
+        x: 704
+        y: 169
+        width: 72
+        height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: bugs_1
       rect:
         serializedVersion: 2
-        x: 10
-        y: 0
-        width: 10
-        height: 8
+        x: 704
+        y: 169
+        width: 72
+        height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: bugs_2
       rect:
         serializedVersion: 2
-        x: 20
-        y: 0
-        width: 10
-        height: 8
+        x: 704
+        y: 169
+        width: 72
+        height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,10 +224,10 @@ TextureImporter:
       name: bugs_3
       rect:
         serializedVersion: 2
-        x: 30
-        y: 0
-        width: 10
-        height: 8
+        x: 704
+        y: 169
+        width: 72
+        height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,10 +245,10 @@ TextureImporter:
       name: bugs_4
       rect:
         serializedVersion: 2
-        x: 40
-        y: 0
-        width: 10
-        height: 8
+        x: 704
+        y: 169
+        width: 72
+        height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,10 +266,10 @@ TextureImporter:
       name: bugs_5
       rect:
         serializedVersion: 2
-        x: 50
-        y: 0
-        width: 10
-        height: 8
+        x: 704
+        y: 169
+        width: 72
+        height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,10 +287,10 @@ TextureImporter:
       name: bugs_6
       rect:
         serializedVersion: 2
-        x: 60
-        y: 0
-        width: 10
-        height: 8
+        x: 704
+        y: 169
+        width: 72
+        height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +308,10 @@ TextureImporter:
       name: bugs_7
       rect:
         serializedVersion: 2
-        x: 70
-        y: 0
-        width: 10
-        height: 8
+        x: 581
+        y: 170
+        width: 78
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,10 +329,10 @@ TextureImporter:
       name: bugs_8
       rect:
         serializedVersion: 2
-        x: 80
-        y: 0
-        width: 10
-        height: 8
+        x: 581
+        y: 170
+        width: 78
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,10 +350,10 @@ TextureImporter:
       name: bugs_9
       rect:
         serializedVersion: 2
-        x: 90
-        y: 0
-        width: 10
-        height: 8
+        x: 811
+        y: 179
+        width: 57
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,10 +371,10 @@ TextureImporter:
       name: bugs_10
       rect:
         serializedVersion: 2
-        x: 100
-        y: 0
-        width: 10
-        height: 8
+        x: 914
+        y: 162
+        width: 73
+        height: 81
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,10 +392,10 @@ TextureImporter:
       name: bugs_11
       rect:
         serializedVersion: 2
-        x: 110
-        y: 0
-        width: 10
-        height: 8
+        x: 125
+        y: 163
+        width: 79
+        height: 74
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,10 +413,10 @@ TextureImporter:
       name: bugs_12
       rect:
         serializedVersion: 2
-        x: 120
-        y: 0
-        width: 10
-        height: 8
+        x: 125
+        y: 163
+        width: 79
+        height: 74
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,10 +434,10 @@ TextureImporter:
       name: bugs_13
       rect:
         serializedVersion: 2
-        x: 130
-        y: 0
-        width: 10
-        height: 8
+        x: 256
+        y: 175
+        width: 65
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,10 +455,10 @@ TextureImporter:
       name: bugs_14
       rect:
         serializedVersion: 2
-        x: 140
-        y: 0
-        width: 10
-        height: 8
+        x: 1024
+        y: 173
+        width: 77
+        height: 61
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -473,13 +473,34 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: empty-bug
+      name: bugs_15
       rect:
         serializedVersion: 2
-        x: 150
+        x: 1200
         y: 0
-        width: 10
-        height: 8
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136f9077248e09948a1c2693adfe7d00
+      internalID: -107635835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladybug
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 175
+        width: 62
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,8 +508,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de63f29ac1af1bc40800000000000000
-      internalID: 5526473218764781293
+      spriteID: 49d34c9304812334caadb49d57e6cef2
+      internalID: 83922189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ant
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 169
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b74cffdab7c247be5822d052b85d6
+      internalID: -1174252481
       vertices: []
       indices: 
       edges: []
@@ -504,6 +546,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      ant: -1174252481
       bugs_0: 7727492313054507650
       bugs_1: 2123940523589455902
       bugs_10: -8242508931547441676
@@ -511,6 +554,7 @@ TextureImporter:
       bugs_12: 5840206713472087776
       bugs_13: 69960855096982761
       bugs_14: -4227899724180228938
+      bugs_15: -107635835
       bugs_2: -1072237281503531706
       bugs_3: 1568328005615836768
       bugs_4: -7619334830107094053
@@ -519,7 +563,7 @@ TextureImporter:
       bugs_7: 2707975884197104939
       bugs_8: -3411379802468825035
       bugs_9: -617584032929607979
-      empty-bug: 5526473218764781293
+      ladybug: 83922189
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

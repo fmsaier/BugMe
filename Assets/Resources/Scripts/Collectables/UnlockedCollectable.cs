@@ -11,14 +11,14 @@ public class UnlockedCollectable : MonoBehaviour
     public void Render(CollectableData collectable)
     {
         Image.sprite = collectable.sprite;
-        Text.text = "找到了 " + collectable.Name + "！";
+        Text.text = "找到了 " + collectable.ChineseName + "！";
         Panel.SetActive(true);
     }
 
     public void RenderAlreadyUnlocked(CollectableData collectable)
     {
         Image.sprite = collectable.sprite;
-        Text.text = collectable.Name + "!";
+        Text.text = collectable.ChineseName + "!";
         Panel.SetActive(true);
     }
 }
