@@ -9,7 +9,6 @@ public class DraggableWithinBounds : Draggable
         if (IsDragging)
         {
             IsDragging = false;
-            SpriteRenderer.sortingLayerName = StartSortingLayerName;
             DestroyGhost();
 
             if (!Bounds.Distance(Collider).isOverlapped)
